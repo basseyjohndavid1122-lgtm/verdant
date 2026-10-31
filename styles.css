@@ -293,6 +293,9 @@ font-family: "Dm Sans", sans-serif;
   width: 30px;
   border-radius: 100px;
   background-color: #e4ebd6;
+   display:flex;
+  align-items:center;
+  justify-content:center;
  }
 
  .badge-1-content h6 {
@@ -321,6 +324,9 @@ font-family: "Dm Sans", sans-serif;
   width: 30px;
   border-radius: 100%;
   background-color: #4a7c59;
+  display:flex;
+  align-items:center;
+  justify-content:center;
  }
 
  .badge-2-content h6 {
